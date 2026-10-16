@@ -15,6 +15,12 @@ I work with coding agents (Cursor, Grok Bot). I set up and run them; the archite
 - **[Template project](https://github.com/Schwibl/template-project)**: my agent setup as a starter repo, with AGENTS.md, builder and auditor prompts, ADRs, Vitest, Playwright and a CI check on PRs.
 - **[Workspace builder demo](https://workspace-builder-opal.vercel.app)**: a small take-home app on Vercel.
 
+## Demos
+
+- **[AI chat widget](https://ai-chat-demo-puce.vercel.app)**: an embeddable chat in vanilla TypeScript with optimistic sending and follow-up chips, on a mock API. [Code](https://github.com/Schwibl/ai_chat_demo)
+- **[Custom routing](https://custom-routing-demo.vercel.app)**: a History API router with auth guards, params and page cleanup, no framework. [Code](https://github.com/Schwibl/custom_routing_demo)
+- **[Yandex map clusters](https://yandex-map-demo.vercel.app)**: custom markers and grid clustering on Yandex Maps v3, with a Preact filter sidebar. [Code](https://github.com/Schwibl/yandex_map_demo)
+
 ## Stack
 
 TypeScript, React, Next.js, Vite, Preact, Redux, SCSS. Server side when a project needs it: Node, Hono, Postgres, Payload.
